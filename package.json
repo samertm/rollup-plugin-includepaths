@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-includepaths",
+  "name": "rollup-plugin-includepaths-samer",
   "version": "0.2.1",
   "description": "Rollup plugin to use relative paths in your project files",
   "main": "src/plugin.es5.js",

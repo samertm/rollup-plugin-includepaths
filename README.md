@@ -1,4 +1,7 @@
-# rollup-plugin-includepaths
+# rollup-plugin-includepaths-samer
+
+NOTE: This is a fork of rollup-plugin-includepaths with a fix to make
+it work for node v0.12.
 
 Let you use relative paths in your import directives, like this:
 
